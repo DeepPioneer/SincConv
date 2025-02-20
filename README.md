@@ -1,2 +1,2 @@
 # SincConv
- 可解释卷积设计
+Adaptive Spectral Bandpass Multi-scale Network for Underwater Acoustic Target Recognition
